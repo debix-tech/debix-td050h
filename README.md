@@ -24,7 +24,7 @@ Compatible with DEBIX series computers with HDMI ports
 
 ## Specification:
 | DEBIX TD050H |  |
-|--------------|--|
+|:--------------|--|
 | LCD Size     | 5 inches (Diagonal) |
 | Resolution   | 800 x 480 |
 | Active Area  | 108.00mm x 64.80mm |
